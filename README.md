@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on backend development and Flutter
-- 🌱 I’m currently learning JavaSpring, Golang
+- 🔭 I’m currently working on backend development.
+- 🌱 I’m currently learning JavaSpring, Golang.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
