@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on backend development.
-- 🌱 I’m currently learning Java, JavaSpring, Golang and C#.
+- 🌱 I’m currently learning Java, JavaSpring and C#.
 
 - 🤔 I’m looking for help with internship and part time job.
 - 📫 How to reach me: veysel1574@gmail.com
